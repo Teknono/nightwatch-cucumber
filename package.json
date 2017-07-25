@@ -64,7 +64,7 @@
     "babel-plugin-transform-async-to-generator": "^6.24.1",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",
     "chai": "^4.0.1",
-    "chromedriver": "^2.29.0",
+    "chromedriver": "^2.31.0",
     "coveralls": "^2.13.1",
     "cucumber": "^2.2.0",
     "cucumber-html-reporter": "^2.0.1",
